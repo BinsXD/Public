@@ -2,16 +2,17 @@
 
 <html>
 <head>
+    <link rel="icon" type="image/jpeg" href="/images/Icon2.jpg">
     <title>Bins' Birthdate</title>
 </head>
 <body>
     <h3>Bins' Birthdate</h3>
 
-    <table bgcolor="black">
+    <table border="5" bgcolor="black">
         <tr bgcolor="lightgrey" align="center">
-            <td colspan="7"><strong>May 2004</strong></td>
+            <td colspan="7"><b>May 2004</b></td>
         <tr bgcolor="grey">
-            <th>SUN</th>
+            <th >SUN</th>
             <th>MON</th>
             <th>TUE</th>
             <th>WED</th>
@@ -62,7 +63,7 @@
             <td>26</td>
             <td>27</td>
             <td>28</td>
-            <td><a href="https://www.youtube.com/watch?v=N6-0syjL9nU">29</a></td>
+            <td><a href="https://www.youtube.com/watch?v=N6-0syjL9nU" target="_blank" style="color: red">29</a></td>
         </tr>
         <tr bgcolor="lightgrey" align="center">
             <td>30</td>
